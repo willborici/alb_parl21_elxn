@@ -1,0 +1,379 @@
+GID_0,NAME_0,GID_1,NAME_1,NL_NAME_1,GID_2,NAME_2,NL_NAME_2,GID_3,NAME_3,VARNAME_3,NL_NAME_3,TYPE_3,ENGTYPE_3,CC_3,HASC_3
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.1_1,Berat,NA,NA,Bashkia,Bashkia,NA,AL.BE.BR.BE
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.2_1,Cukalat,Cukalt,NA,Commune,Commune,NA,AL.BE.BR.CU
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.3_1,Kutalli,Kutali,NA,Commune,Commune,NA,AL.BE.BR.KT
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.4_1,Lumas,NA,NA,Commune,Commune,NA,AL.BE.BR.LU
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.5_1,Otllak,Otilak,NA,Commune,Commune,NA,AL.BE.BR.OT
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.6_1,Poshnjë,NA,NA,Commune,Commune,NA,AL.BE.BR.PS
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.7_1,Roshnik,NA,NA,Commune,Commune,NA,AL.BE.BR.RO
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.8_1,Sinjë,NA,NA,Commune,Commune,NA,AL.BE.BR.SI
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.9_1,Tërpan,NA,NA,Commune,Commune,NA,AL.BE.BR.TE
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.10_1,Ura Vajgurorë,NA,NA,Bashkia,Bashkia,NA,AL.BE.BR.UV
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.11_1,Velabisht,NA,NA,Commune,Commune,NA,AL.BE.BR.VB
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.1_1,Beratit,NA,ALB.1.1.12_1,Vertop,NA,NA,Commune,Commune,NA,AL.BE.BR.VT
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.2_1,Kuçovës,NA,ALB.1.2.1_1,Kozarë,NA,NA,Commune,Commune,NA,AL.BE.KC.KZ
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.2_1,Kuçovës,NA,ALB.1.2.2_1,Kuçovë,NA,NA,Commune,Commune,NA,AL.BE.KC.KC
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.2_1,Kuçovës,NA,ALB.1.2.3_1,Perondi,NA,NA,Commune,Commune,NA,AL.BE.KC.PE
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.3_1,Skraparit,NA,ALB.1.3.1_1,Bogovë,NA,NA,Commune,Commune,NA,AL.BE.SK.BO
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.3_1,Skraparit,NA,ALB.1.3.2_1,Çepan,NA,NA,Commune,Commune,NA,AL.BE.SK.CE
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.3_1,Skraparit,NA,ALB.1.3.3_1,Çorovodë,NA,NA,Bashkia,Bashkia,NA,AL.BE.SK.CO
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.3_1,Skraparit,NA,ALB.1.3.4_1,Gjerbes,NA,NA,Commune,Commune,NA,AL.BE.SK.GJ
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.3_1,Skraparit,NA,ALB.1.3.5_1,Leshnjë,NA,NA,Commune,Commune,NA,AL.BE.SK.LE
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.3_1,Skraparit,NA,ALB.1.3.6_1,Poliçan,NA,NA,Commune,Commune,NA,AL.BE.SK.PL
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.3_1,Skraparit,NA,ALB.1.3.7_1,Potom,NA,NA,Commune,Commune,NA,AL.BE.SK.PT
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.3_1,Skraparit,NA,ALB.1.3.8_1,Qendër,Qender Polican,NA,Commune,Commune,NA,AL.BE.SK.QE
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.3_1,Skraparit,NA,ALB.1.3.9_1,Vendreshë,NA,NA,Commune,Commune,NA,AL.BE.SK.VN
+ALB,Albania,ALB.1_1,Berat,NA,ALB.1.3_1,Skraparit,NA,ALB.1.3.10_1,Zhepë,NA,NA,Commune,Commune,NA,AL.BE.SK.ZH
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.1_1,Bulqizës,NA,ALB.2.1.1_1,Bulqizë,NA,NA,Bashkia,Bashkia,NA,AL.DB.BU.BQ
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.1_1,Bulqizës,NA,ALB.2.1.2_1,Fushë Bulqizë,NA,NA,Commune,Commune,NA,AL.DB.BU.FB
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.1_1,Bulqizës,NA,ALB.2.1.3_1,Gjoricë,NA,NA,Commune,Commune,NA,AL.DB.BU.GJ
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.1_1,Bulqizës,NA,ALB.2.1.4_1,Ostren,NA,NA,Commune,Commune,NA,AL.DB.BU.OS
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.1_1,Bulqizës,NA,ALB.2.1.5_1,Shupenzë,NA,NA,Commune,Commune,NA,AL.DB.BU.SH
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.1_1,Bulqizës,NA,ALB.2.1.6_1,Steblevë,NA,NA,Commune,Commune,NA,NA
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.1_1,Bulqizës,NA,ALB.2.1.7_1,Trebisht,NA,NA,Commune,Commune,NA,AL.DB.BU.TR
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.1_1,Bulqizës,NA,ALB.2.1.8_1,Zerqan,NA,NA,Commune,Commune,NA,AL.DB.BU.ZE
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.1_1,Arras,NA,NA,Commune,Commune,NA,AL.DB.DI.AR
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.2_1,Fushë Çidhen,NA,NA,Commune,Commune,NA,AL.DB.DI.FC
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.3_1,Kala e Dodës,NA,NA,Commune,Commune,NA,AL.DB.DI.KD
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.4_1,Kastriot,NA,NA,Commune,Commune,NA,AL.DB.DI.KA
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.5_1,Lurë,NA,NA,Commune,Commune,NA,AL.DB.DI.LR
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.6_1,Luzni,NA,NA,Commune,Commune,NA,AL.DB.DI.LZ
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.7_1,Maqellarë,NA,NA,Commune,Commune,NA,AL.DB.DI.MQ
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.8_1,Melan,NA,NA,Commune,Commune,NA,AL.DB.DI.ME
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.9_1,Muhurr,Muhur| Fushė Muhurr,NA,Commune,Commune,NA,AL.DB.DI.MU
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.10_1,Peshkopi,NA,NA,Bashkia,Bashkia,NA,AL.DB.DI.PE
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.11_1,Qendër Tomin,NA,NA,Commune,Commune,NA,AL.DB.DI.TO
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.12_1,Selishtë,NA,NA,Commune,Commune,NA,AL.DB.DI.SE
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.13_1,Sllovë,NA,NA,Commune,Commune,NA,AL.DB.DI.SL
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.14_1,Zall Dardhë,NA,NA,Commune,Commune,NA,AL.DB.DI.ZD
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.2_1,Dibrës,NA,ALB.2.2.15_1,Zall Reç,NA,NA,Commune,Commune,NA,AL.DB.DI.ZR
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.1_1,Baz,NA,NA,Commune,Commune,NA,AL.DB.MT.BA
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.2_1,Burrel,NA,NA,Bashkia,Bashkia,NA,AL.DB.MT.BR
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.3_1,Derjan,NA,NA,Commune,Commune,NA,AL.DB.MT.DE
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.4_1,Gurrë,Gurė| Gurra,NA,Commune,Commune,NA,AL.DB.MT.GU
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.5_1,Klos,NA,NA,Bashkia,Bashkia,NA,AL.DB.MT.KL
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.6_1,Komsi,NA,NA,Commune,Commune,NA,AL.DB.MT.KO
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.7_1,Lis,NA,NA,Commune,Commune,NA,AL.DB.MT.LS
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.8_1,Macukull,NA,NA,Commune,Commune,NA,AL.DB.MT.MC
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.9_1,Martanesh,NA,NA,Commune,Commune,NA,AL.DB.MT.MT
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.10_1,Rukaj,NA,NA,Commune,Commune,NA,AL.DB.MT.RU
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.11_1,Suç,NA,NA,Commune,Commune,NA,AL.DB.MT.SU
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.12_1,Ulëz,NA,NA,Commune,Commune,NA,AL.DB.MT.UL
+ALB,Albania,ALB.2_1,Dibër,NA,ALB.2.3_1,Matit,NA,ALB.2.3.13_1,Xibër,NA,NA,Commune,Commune,NA,AL.DB.MT.XI
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.1_1,Durrësit,NA,ALB.3.1.1_1,Durrës,NA,NA,Bashkia,Bashkia,NA,AL.DU.DR.DU
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.1_1,Durrësit,NA,ALB.3.1.2_1,Gjepalaj,Gjepelaj,NA,Commune,Commune,NA,AL.DU.DR.GJ
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.1_1,Durrësit,NA,ALB.3.1.3_1,Ishëm,NA,NA,Commune,Commune,NA,AL.DU.DR.IS
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.1_1,Durrësit,NA,ALB.3.1.4_1,Katund i Ri,Katundi I Ri,NA,Commune,Commune,NA,AL.DU.DR.KR
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.1_1,Durrësit,NA,ALB.3.1.5_1,Maminas,NA,NA,Commune,Commune,NA,AL.DU.DR.MM
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.1_1,Durrësit,NA,ALB.3.1.6_1,Manëz,NA,NA,Bashkia,Bashkia,NA,AL.DU.DR.MZ
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.1_1,Durrësit,NA,ALB.3.1.7_1,Rrashbull,Rashbull,NA,Commune,Commune,NA,AL.DU.DR.RR
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.1_1,Durrësit,NA,ALB.3.1.8_1,Shijak,NA,NA,Bashkia,Bashkia,NA,AL.DU.DR.SH
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.1_1,Durrësit,NA,ALB.3.1.9_1,Sukth,NA,NA,Bashkia,Bashkia,NA,AL.DU.DR.SU
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.1_1,Durrësit,NA,ALB.3.1.10_1,Xhafzotaj,Xhafzote,NA,Commune,Commune,NA,AL.DU.DR.XZ
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.2_1,Krujës,NA,ALB.3.2.1_1,Bubq,Bubuq,NA,Commune,Commune,NA,AL.DU.KR.BU
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.2_1,Krujës,NA,ALB.3.2.2_1,Cudhi,NA,NA,Commune,Commune,NA,AL.DU.KR.CU
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.2_1,Krujës,NA,ALB.3.2.3_1,Fushë Krujë,NA,NA,Bashkia,Bashkia,NA,AL.DU.KR.FK
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.2_1,Krujës,NA,ALB.3.2.4_1,Kodër Thumanë,Thumane,NA,Commune,Commune,NA,AL.DU.KR.TH
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.2_1,Krujës,NA,ALB.3.2.5_1,Krujë,NA,NA,Bashkia,Bashkia,NA,AL.DU.KR.KJ
+ALB,Albania,ALB.3_1,Durrës,NA,ALB.3.2_1,Krujës,NA,ALB.3.2.6_1,Nikël,NA,NA,Commune,Commune,NA,AL.DU.KR.NI
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.1_1,Belsh,NA,NA,Bashkia,Bashkia,NA,AL.EB.EL.BE
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.2_1,Bradashesh,Bradasesh,NA,Commune,Commune,NA,AL.EB.EL.BR
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.3_1,Cërrik,NA,NA,Bashkia,Bashkia,NA,AL.EB.EL.CE
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.4_1,Elbasan,NA,NA,Bashkia,Bashkia,NA,AL.EB.EL.EL
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.5_1,Fierz,NA,NA,Commune,Commune,NA,AL.EB.EL.FI
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.6_1,Funarë,Funar,NA,Commune,Commune,NA,AL.EB.EL.FU
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.7_1,Gjegjan,NA,NA,Commune,Commune,NA,AL.EB.EL.GJ
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.8_1,Gjinar,NA,NA,Commune,Commune,NA,AL.EB.EL.GN
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.9_1,Gostimë,Gostim,NA,Commune,Commune,NA,AL.EB.EL.GS
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.10_1,Gracen,NA,NA,Commune,Commune,NA,AL.EB.EL.GR
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.11_1,Grekan,NA,NA,Commune,Commune,NA,AL.EB.EL.GK
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.12_1,Kajan,NA,NA,Commune,Commune,NA,AL.EB.EL.KJ
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.13_1,Klos,NA,NA,Commune,Commune,NA,AL.EB.EL.KL
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.14_1,Labinot Fushë,NA,NA,Commune,Commune,NA,AL.EB.EL.LF
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.15_1,Labinot Mal,NA,NA,Commune,Commune,NA,AL.EB.EL.LM
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.16_1,Mollas,NA,NA,Commune,Commune,NA,AL.EB.EL.MO
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.17_1,Papër,NA,NA,Commune,Commune,NA,AL.EB.EL.PP
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.18_1,Rrasë,NA,NA,Commune,Commune,NA,AL.EB.EL.RS
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.19_1,Shalës,NA,NA,Commune,Commune,NA,AL.EB.EL.SL
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.20_1,Shirgjan,NA,NA,Commune,Commune,NA,AL.EB.EL.SG
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.21_1,Shushicë,NA,NA,Commune,Commune,NA,AL.EB.EL.SH
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.22_1,Tregan,NA,NA,Commune,Commune,NA,AL.EB.EL.TR
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.1_1,Elbasanit,NA,ALB.4.1.23_1,Zavalinë,Zavalin,NA,Commune,Commune,NA,AL.EB.EL.ZA
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.2_1,Gramshit,NA,ALB.4.2.1_1,Gramsh,NA,NA,Bashkia,Bashkia,NA,AL.EB.GR.GM
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.2_1,Gramshit,NA,ALB.4.2.2_1,Kodovjat,Kokovjat,NA,Commune,Commune,NA,AL.EB.GR.KD
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.2_1,Gramshit,NA,ALB.4.2.3_1,Kukur,Kukur |Gramsh,NA,Commune,Commune,NA,AL.EB.GR.KK
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.2_1,Gramshit,NA,ALB.4.2.4_1,Kushovë,NA,NA,Commune,Commune,NA,AL.EB.GR.KS
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.2_1,Gramshit,NA,ALB.4.2.5_1,Lënie,Lenjė,NA,Commune,Commune,NA,AL.EB.GR.LE
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.2_1,Gramshit,NA,ALB.4.2.6_1,Pishaj,NA,NA,Commune,Commune,NA,AL.EB.GR.PI
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.2_1,Gramshit,NA,ALB.4.2.7_1,Poroçan,NA,NA,Commune,Commune,NA,AL.EB.GR.PC
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.2_1,Gramshit,NA,ALB.4.2.8_1,Skëndërbegas,Skenderbeg| Skėndėrbej,NA,Commune,Commune,NA,AL.EB.GR.SK
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.2_1,Gramshit,NA,ALB.4.2.9_1,Sult,NA,NA,Commune,Commune,NA,AL.EB.GR.SU
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.2_1,Gramshit,NA,ALB.4.2.10_1,Tunjë,NA,NA,Commune,Commune,NA,AL.EB.GR.TU
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.3_1,Librazhdit,NA,ALB.4.3.1_1,Hotolisht,NA,NA,Commune,Commune,NA,AL.EB.LB.HO
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.3_1,Librazhdit,NA,ALB.4.3.2_1,Librazhd,NA,NA,Bashkia,Bashkia,NA,AL.EB.LB.LI
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.3_1,Librazhdit,NA,ALB.4.3.3_1,Lunik,NA,NA,Commune,Commune,NA,AL.EB.LB.LU
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.3_1,Librazhdit,NA,ALB.4.3.4_1,Orenjë,NA,NA,Commune,Commune,NA,AL.EB.LB.OR
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.3_1,Librazhdit,NA,ALB.4.3.5_1,Perrenjas,Prrenjas,NA,Bashkia,Bashkia,NA,AL.EB.LB.PE
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.3_1,Librazhdit,NA,ALB.4.3.6_1,Polis,NA,NA,Commune,Commune,NA,AL.EB.LB.PL
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.3_1,Librazhdit,NA,ALB.4.3.7_1,Qendër,NA,NA,Bashkia,Bashkia,NA,AL.EB.LB.QE
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.3_1,Librazhdit,NA,ALB.4.3.8_1,Qukës,NA,NA,Commune,Commune,NA,AL.EB.LB.QU
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.3_1,Librazhdit,NA,ALB.4.3.9_1,Rrajcë,Rajce,NA,Commune,Commune,NA,AL.EB.LB.RJ
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.3_1,Librazhdit,NA,ALB.4.3.10_1,Stravaj,Stavraj,NA,Commune,Commune,NA,AL.EB.LB.SV
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.4_1,Peqinit,NA,ALB.4.4.1_1,Gjocaj,Goēaj,NA,Commune,Commune,NA,AL.EB.PQ.GJ
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.4_1,Peqinit,NA,ALB.4.4.2_1,Karinë,Karinje,NA,Commune,Commune,NA,AL.EB.PQ.KR
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.4_1,Peqinit,NA,ALB.4.4.3_1,Pajovë,NA,NA,Commune,Commune,NA,AL.EB.PQ.PJ
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.4_1,Peqinit,NA,ALB.4.4.4_1,Peqin,NA,NA,Bashkia,Bashkia,NA,AL.EB.PQ.PQ
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.4_1,Peqinit,NA,ALB.4.4.5_1,Përparim,NA,NA,Commune,Commune,NA,AL.EB.PQ.PR
+ALB,Albania,ALB.4_1,Elbasan,NA,ALB.4.4_1,Peqinit,NA,ALB.4.4.6_1,Shezë,NA,NA,Commune,Commune,NA,AL.EB.PQ.SZ
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.1_1,Cakran,NA,NA,Commune,Commune,NA,AL.FI.FR.CA
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.2_1,Dermenas,NA,NA,Commune,Commune,NA,AL.FI.FR.DE
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.3_1,Fier,NA,NA,Bashkia,Bashkia,NA,AL.FI.FR.FI
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.4_1,Frakull,NA,NA,Commune,Commune,NA,AL.FI.FR.FK
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.5_1,Kuman,NA,NA,Commune,Commune,NA,AL.FI.FR.KM
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.6_1,Kurjan,NA,NA,Commune,Commune,NA,AL.FI.FR.KJ
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.7_1,Levan,NA,NA,Commune,Commune,NA,AL.FI.FR.LE
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.8_1,Libofshë,NA,NA,Commune,Commune,NA,AL.FI.FR.LI
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.9_1,Mbrostar Ura,Mbrostar| Mbrostar Ure,NA,Commune,Commune,NA,AL.FI.FR.MU
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.10_1,Patos,NA,NA,Bashkia,Bashkia,NA,AL.FI.FR.PA
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.11_1,Portëz,NA,NA,Commune,Commune,NA,AL.FI.FR.PO
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.12_1,Qendër,NA,NA,Commune,Commune,NA,AL.FI.FR.QF
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.13_1,Roskovec,NA,NA,Bashkia,Bashkia,NA,AL.FI.FR.RO
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.14_1,Ruzhdie,NA,NA,Commune,Commune,NA,AL.FI.FR.RU
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.15_1,Strum,Strumė,NA,Commune,Commune,NA,AL.FI.FR.ST
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.16_1,Topojë,NA,NA,Commune,Commune,NA,AL.FI.FR.TO
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.1_1,Fierit,NA,ALB.5.1.17_1,Zharrëz,Zharres,NA,Commune,Commune,NA,AL.FI.FR.ZH
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.1_1,Allkaj,NA,NA,Commune,Commune,NA,AL.FI.LU.AL
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.2_1,Ballagat,NA,NA,Commune,Commune,NA,AL.FI.LU.BG
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.3_1,Bubullimë,NA,NA,Bashkia,Bashkia,NA,AL.FI.LU.BU
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.4_1,Divjakë,NA,NA,Bashkia,Bashkia,NA,AL.FI.LU.DI
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.5_1,Dushk,NA,NA,Commune,Commune,NA,AL.FI.LU.DU
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.6_1,Fier Shegan,NA,NA,Commune,Commune,NA,AL.FI.LU.FS
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.7_1,Golem,NA,NA,Commune,Commune,NA,AL.FI.LU.GO
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.8_1,Grabian,NA,NA,Commune,Commune,NA,AL.FI.LU.GB
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.9_1,Gradishtë,Gradisht| Gradishė,NA,Commune,Commune,NA,AL.FI.LU.GD
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.10_1,Hysgjokaj,NA,NA,Commune,Commune,NA,AL.FI.LU.HY
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.11_1,Karbunarë,NA,NA,Commune,Commune,NA,AL.FI.LU.KA
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.12_1,Kolonjë,NA,NA,Commune,Commune,NA,AL.FI.LU.KO
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.13_1,Krutjë,NA,NA,Commune,Commune,NA,AL.FI.LU.KR
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.14_1,Lushnjë,NA,NA,Bashkia,Bashkia,NA,AL.FI.LU.LU
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.15_1,Remas,Rremas,NA,Commune,Commune,NA,AL.FI.LU.RE
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.2_1,Lushnjës,NA,ALB.5.2.16_1,Tërbuf,NA,NA,Commune,Commune,NA,AL.FI.LU.TE
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.3_1,Mallakastrës,NA,ALB.5.3.1_1,Aranitas,NA,NA,Commune,Commune,NA,AL.FI.MK.AR
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.3_1,Mallakastrës,NA,ALB.5.3.2_1,Bashkia B,NA,NA,Commune,Commune,NA,NA
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.3_1,Mallakastrës,NA,ALB.5.3.3_1,Fratar,NA,NA,Commune,Commune,NA,AL.FI.MK.FT
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.3_1,Mallakastrës,NA,ALB.5.3.4_1,Greshicë,NA,NA,Commune,Commune,NA,AL.FI.MK.GC
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.3_1,Mallakastrës,NA,ALB.5.3.5_1,Hekal,NA,NA,Commune,Commune,NA,AL.FI.MK.HE
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.3_1,Mallakastrës,NA,ALB.5.3.6_1,Kutë,NA,NA,Commune,Commune,NA,AL.FI.MK.KT
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.3_1,Mallakastrës,NA,ALB.5.3.7_1,Ngraçan,NA,NA,Commune,Commune,NA,AL.FI.MK.NG
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.3_1,Mallakastrës,NA,ALB.5.3.8_1,Qendër,Qender |Ballsh| Qendėr Dukas,NA,Commune,Commune,NA,AL.FI.MK.QM
+ALB,Albania,ALB.5_1,Fier,NA,ALB.5.3_1,Mallakastrës,NA,ALB.5.3.9_1,Selitë,Selite |Ballsh,NA,Commune,Commune,NA,AL.FI.MK.SE
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.1_1,Antigonë,Antigon,NA,Commune,Commune,NA,AL.GK.GJ.AN
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.2_1,Cepo,NA,NA,Commune,Commune,NA,AL.GK.GJ.CE
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.3_1,Dropull i Poshtëm,Dropulli I Poshte,NA,Commune,Commune,NA,AL.GK.GJ.DP
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.4_1,Dropull i Sipërm,Dropulli I Siperm,NA,Commune,Commune,NA,AL.GK.GJ.DS
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.5_1,Gjirokastër,NA,NA,Bashkia,Bashkia,NA,AL.GK.GJ.GJ
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.6_1,Lazarat,NA,NA,Commune,Commune,NA,AL.GK.GJ.LZ
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.7_1,Libohovë,NA,NA,Bashkia,Bashkia,NA,AL.GK.GJ.LB
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.8_1,Lunxhëri,NA,NA,Commune,Commune,NA,AL.GK.GJ.LX
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.9_1,Odrie,NA,NA,Commune,Commune,NA,AL.GK.GJ.OD
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.10_1,Picar,NA,NA,Commune,Commune,NA,AL.GK.GJ.PC
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.11_1,Pogon,NA,NA,Commune,Commune,NA,AL.GK.GJ.PG
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.12_1,Qen.Liboh,NA,NA,Bashkia,Bashkia,NA,NA
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.1_1,Gjirokastrës,NA,ALB.6.1.13_1,Zagori,Zagorie,NA,Commune,Commune,NA,AL.GK.GJ.ZA
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.2_1,Përmetit,NA,ALB.6.2.1_1,Ballaban,NA,NA,Commune,Commune,NA,AL.GK.PR.BA
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.2_1,Përmetit,NA,ALB.6.2.2_1,Çarshovë,NA,NA,Commune,Commune,NA,AL.GK.PR.CA
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.2_1,Përmetit,NA,ALB.6.2.3_1,Dishnicë,Deshnicė,NA,Commune,Commune,NA,AL.GK.PR.DI
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.2_1,Përmetit,NA,ALB.6.2.4_1,Frashër,NA,NA,Commune,Commune,NA,AL.GK.PR.FR
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.2_1,Përmetit,NA,ALB.6.2.5_1,Këlcyrë,NA,NA,Commune,Commune,NA,AL.GK.PR.KE
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.2_1,Përmetit,NA,ALB.6.2.6_1,Përmet,NA,NA,Bashkia,Bashkia,NA,AL.GK.PR.PM
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.2_1,Përmetit,NA,ALB.6.2.7_1,Petran,NA,NA,Commune,Commune,NA,AL.GK.PR.PT
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.2_1,Përmetit,NA,ALB.6.2.8_1,Qendër Piskovë,NA,NA,Commune,Commune,NA,AL.GK.PR.QP
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.2_1,Përmetit,NA,ALB.6.2.9_1,Sukë,NA,NA,Commune,Commune,NA,AL.GK.PR.SU
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.3_1,Tepelenës,NA,ALB.6.3.1_1,Buz,NA,NA,Commune,Commune,NA,AL.GK.TE.BU
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.3_1,Tepelenës,NA,ALB.6.3.2_1,Fshat Mem,Fshat Memaliaj| Memeliaj Fshat,NA,Commune,Commune,NA,AL.GK.TE.MK
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.3_1,Tepelenës,NA,ALB.6.3.3_1,Krahës,Krahėz,NA,Commune,Commune,NA,AL.GK.TE.KR
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.3_1,Tepelenës,NA,ALB.6.3.4_1,Kurvelesh,NA,NA,Commune,Commune,NA,AL.GK.TE.KU
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.3_1,Tepelenës,NA,ALB.6.3.5_1,Lopës,Lopez,NA,Commune,Commune,NA,AL.GK.TE.LP
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.3_1,Tepelenës,NA,ALB.6.3.6_1,Luftinjë,NA,NA,Commune,Commune,NA,AL.GK.TE.LF
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.3_1,Tepelenës,NA,ALB.6.3.7_1,Memaliaj,NA,NA,Bashkia,Bashkia,NA,AL.GK.TE.MB
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.3_1,Tepelenës,NA,ALB.6.3.8_1,Qendër,Qendėr Tepelenė|Qendėr Libohovė,NA,Commune,Commune,NA,AL.GK.TE.QT
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.3_1,Tepelenës,NA,ALB.6.3.9_1,Qesarat,NA,NA,Commune,Commune,NA,AL.GK.TE.QS
+ALB,Albania,ALB.6_1,Gjirokastër,NA,ALB.6.3_1,Tepelenës,NA,ALB.6.3.10_1,Tepelenë,NA,NA,Bashkia,Bashkia,NA,AL.GK.TE.TE
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.1_1,Devollit,NA,ALB.7.1.1_1,Ballsh,NA,NA,Bashkia,Bashkia,NA,AL.KE.DV.BS
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.1_1,Devollit,NA,ALB.7.1.2_1,Bilisht,NA,NA,Bashkia,Bashkia,NA,AL.KE.DV.BI
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.1_1,Devollit,NA,ALB.7.1.3_1,Hoçisht,NA,NA,Commune,Commune,NA,AL.KE.DV.HO
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.1_1,Devollit,NA,ALB.7.1.4_1,Miras,NA,NA,Commune,Commune,NA,AL.KE.DV.MI
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.1_1,Devollit,NA,ALB.7.1.5_1,Progër,NA,NA,Commune,Commune,NA,AL.KE.DV.PR
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.2_1,Kolonjës,NA,ALB.7.2.1_1,Barmash,NA,NA,Commune,Commune,NA,AL.KE.ER.BA
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.2_1,Kolonjës,NA,ALB.7.2.2_1,Çlirim,NA,NA,Bashkia,Bashkia,NA,AL.KE.ER.CL
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.2_1,Kolonjës,NA,ALB.7.2.3_1,Ersekë,NA,NA,Commune,Commune,NA,AL.KE.ER.ER
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.2_1,Kolonjës,NA,ALB.7.2.4_1,Komuna La,NA,NA,Commune,Commune,NA,NA
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.2_1,Kolonjës,NA,ALB.7.2.5_1,Leskovik,Leskovik Bashki,NA,Bashkia,Bashkia,NA,AL.KE.ER.LB
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.2_1,Kolonjës,NA,ALB.7.2.6_1,Mollas,NA,NA,Commune,Commune,NA,AL.KE.ER.MS
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.2_1,Kolonjës,NA,ALB.7.2.7_1,Novoselë,NA,NA,Commune,Commune,NA,AL.KE.ER.NO
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.2_1,Kolonjës,NA,ALB.7.2.8_1,Qendër Ersekë,NA,NA,Commune,Commune,NA,AL.KE.ER.QE
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.1_1,Drenovë,NA,NA,Commune,Commune,NA,AL.KE.KO.DR
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.2_1,Gore,NA,NA,Commune,Commune,NA,AL.KE.KO.GO
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.3_1,Inland Water Body,NA,NA,Water body,Water body,NA,NA
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.4_1,Korçë,NA,NA,Bashkia,Bashkia,NA,AL.KE.KO.KO
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.5_1,Lekas,NA,NA,Commune,Commune,NA,AL.KE.KO.LE
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.6_1,Libonik,NA,NA,Commune,Commune,NA,AL.KE.KO.LN
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.7_1,Liqenas,NA,NA,Commune,Commune,NA,AL.KE.KO.LQ
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.8_1,Maliq,NA,NA,Bashkia,Bashkia,NA,AL.KE.KO.MA
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.9_1,Moglicë,NA,NA,Commune,Commune,NA,AL.KE.KO.MG
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.10_1,Mollaj,Mollas,NA,Commune,Commune,NA,AL.KE.KO.MJ
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.11_1,Pirg,NA,NA,Commune,Commune,NA,AL.KE.KO.PI
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.12_1,Pojan,NA,NA,Commune,Commune,NA,AL.KE.KO.PJ
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.13_1,Qendër,Qendėr Bulgarec,NA,Commune,Commune,NA,AL.KE.KO.QK
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.14_1,Vithkuq,NA,NA,Commune,Commune,NA,AL.KE.KO.VQ
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.15_1,Voskop,NA,NA,Commune,Commune,NA,AL.KE.KO.VO
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.16_1,Voskopojë,NA,NA,Commune,Commune,NA,AL.KE.KO.VJ
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.3_1,Korçës,NA,ALB.7.3.17_1,Vreshtas,NA,NA,Commune,Commune,NA,AL.KE.KO.VR
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.4_1,Pogradecit,NA,ALB.7.4.1_1,Buçimas,NA,NA,Commune,Commune,NA,AL.KE.PG.BU
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.4_1,Pogradecit,NA,ALB.7.4.2_1,Çërravë,NA,NA,Commune,Commune,NA,AL.KE.PG.CE
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.4_1,Pogradecit,NA,ALB.7.4.3_1,Dardhas,NA,NA,Commune,Commune,NA,AL.KE.PG.DA
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.4_1,Pogradecit,NA,ALB.7.4.4_1,Hudenisht,Hoēisht |Morave,NA,Commune,Commune,NA,AL.KE.PG.HO
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.4_1,Pogradecit,NA,ALB.7.4.5_1,Inland Water Body,NA,NA,Water body,Water body,NA,NA
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.4_1,Pogradecit,NA,ALB.7.4.6_1,Pogradec,NA,NA,Bashkia,Bashkia,NA,AL.KE.PG.PD
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.4_1,Pogradecit,NA,ALB.7.4.7_1,Proptisht,Propisht,NA,Commune,Commune,NA,AL.KE.PG.PT
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.4_1,Pogradecit,NA,ALB.7.4.8_1,Trebinjë,Trabinjė,NA,Commune,Commune,NA,AL.KE.PG.TR
+ALB,Albania,ALB.7_1,Korçë,NA,ALB.7.4_1,Pogradecit,NA,ALB.7.4.9_1,Velçan,NA,NA,Commune,Commune,NA,AL.KE.PG.VC
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.1_1,Has,NA,ALB.8.1.1_1,Fajza,Fajzė,NA,Commune,Commune,NA,AL.KK.HA.FA
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.1_1,Has,NA,ALB.8.1.2_1,Gjinaj,NA,NA,Commune,Commune,NA,AL.KK.HA.GJ
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.1_1,Has,NA,ALB.8.1.3_1,Golaj,NA,NA,Commune,Commune,NA,AL.KK.HA.GO
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.1_1,Has,NA,ALB.8.1.4_1,Krumë,NA,NA,Bashkia,Bashkia,NA,AL.KK.HA.KR
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.1_1,Arrën,Arn,NA,Commune,Commune,NA,AL.KK.KU.AR
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.2_1,Bicaj,NA,NA,Commune,Commune,NA,AL.KK.KU.BI
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.3_1,Bushtricë,NA,NA,Commune,Commune,NA,AL.KK.KU.BT
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.4_1,Gryke-Çaje,Gryk-Caje,NA,Commune,Commune,NA,AL.KK.KU.GC
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.5_1,Kalis,NA,NA,Commune,Commune,NA,AL.KK.KU.KA
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.6_1,Kolsh,NA,NA,Commune,Commune,NA,AL.KK.KU.KO
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.7_1,Kukës,NA,NA,Bashkia,Bashkia,NA,AL.KK.KU.KU
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.8_1,Malzi,NA,NA,Commune,Commune,NA,AL.KK.KU.MZ
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.9_1,Shishtavec,NA,NA,Commune,Commune,NA,AL.KK.KU.SH
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.10_1,Shtiqen,Stiqen,NA,Commune,Commune,NA,AL.KK.KU.SQ
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.11_1,Surroj,NA,NA,Commune,Commune,NA,AL.KK.KU.SR
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.12_1,Terthorë,NA,NA,Commune,Commune,NA,AL.KK.KU.TE
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.13_1,Topojan,NA,NA,Commune,Commune,NA,AL.KK.KU.TO
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.14_1,Ujmisht,NA,NA,Commune,Commune,NA,AL.KK.KU.UJ
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.2_1,Kukësit,NA,ALB.8.2.15_1,Zapod,NA,NA,Commune,Commune,NA,AL.KK.KU.ZA
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.3_1,Tropojës,NA,ALB.8.3.1_1,Bajram Curri,NA,NA,Bashkia,Bashkia,NA,AL.KK.TP.BC
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.3_1,Tropojës,NA,ALB.8.3.2_1,Bujan,NA,NA,Commune,Commune,NA,AL.KK.TP.BJ
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.3_1,Tropojës,NA,ALB.8.3.3_1,Bytyç,NA,NA,Commune,Commune,NA,AL.KK.TP.BY
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.3_1,Tropojës,NA,ALB.8.3.4_1,Fierzë,Fierze |Bajram Curri,NA,Commune,Commune,NA,AL.KK.TP.FI
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.3_1,Tropojës,NA,ALB.8.3.5_1,Lekbibaj,NA,NA,Commune,Commune,NA,AL.KK.TP.LE
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.3_1,Tropojës,NA,ALB.8.3.6_1,Llugaj,NA,NA,Commune,Commune,NA,AL.KK.TP.LL
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.3_1,Tropojës,NA,ALB.8.3.7_1,Margegaj,NA,NA,Commune,Commune,NA,AL.KK.TP.MG
+ALB,Albania,ALB.8_1,Kukës,NA,ALB.8.3_1,Tropojës,NA,ALB.8.3.8_1,Topojë,NA,NA,Commune,Commune,NA,NA
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.1_1,Kurbinit,NA,ALB.9.1.1_1,Fushë Kuqe,NA,NA,Commune,Commune,NA,AL.LZ.KB.FK
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.1_1,Kurbinit,NA,ALB.9.1.2_1,Laç,NA,NA,Bashkia,Bashkia,NA,AL.LZ.KB.LA
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.1_1,Kurbinit,NA,ALB.9.1.3_1,Mamurras,NA,NA,Bashkia,Bashkia,NA,AL.LZ.KB.MA
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.1_1,Kurbinit,NA,ALB.9.1.4_1,Milot,NA,NA,Commune,Commune,NA,AL.LZ.KB.MI
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.2_1,Lezhës,NA,ALB.9.2.1_1,Balldren i Ri,Balldren|Balldre i Ri,NA,Commune,Commune,NA,AL.LZ.LE.BA
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.2_1,Lezhës,NA,ALB.9.2.2_1,Blinisht,NA,NA,Commune,Commune,NA,AL.LZ.LE.BL
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.2_1,Lezhës,NA,ALB.9.2.3_1,Dajç,NA,NA,Commune,Commune,NA,AL.LZ.LE.DA
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.2_1,Lezhës,NA,ALB.9.2.4_1,Kallmet,NA,NA,Commune,Commune,NA,AL.LZ.LE.KL
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.2_1,Lezhës,NA,ALB.9.2.5_1,Kolsh,NA,NA,Commune,Commune,NA,AL.LZ.LE.KO
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.2_1,Lezhës,NA,ALB.9.2.6_1,Lezhë,NA,NA,Bashkia,Bashkia,NA,AL.LZ.LE.LE
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.2_1,Lezhës,NA,ALB.9.2.7_1,Shëngjin,NA,NA,Commune,Commune,NA,AL.LZ.LE.SJ
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.2_1,Lezhës,NA,ALB.9.2.8_1,Shënkoll,NA,NA,Commune,Commune,NA,AL.LZ.LE.SK
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.2_1,Lezhës,NA,ALB.9.2.9_1,Ungrej,NA,NA,Commune,Commune,NA,AL.LZ.LE.UN
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.2_1,Lezhës,NA,ALB.9.2.10_1,Zejmen,NA,NA,Commune,Commune,NA,AL.LZ.LE.ZE
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.3_1,Mirditës,NA,ALB.9.3.1_1,Fan,Fanė,NA,Commune,Commune,NA,AL.LZ.MR.FA
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.3_1,Mirditës,NA,ALB.9.3.2_1,Kaçinar,NA,NA,Commune,Commune,NA,AL.LZ.MR.KR
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.3_1,Mirditës,NA,ALB.9.3.3_1,Kthellë,NA,NA,Commune,Commune,NA,AL.LZ.MR.KT
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.3_1,Mirditës,NA,ALB.9.3.4_1,Orosh,Orosh |Reps,NA,Commune,Commune,NA,AL.LZ.MR.OR
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.3_1,Mirditës,NA,ALB.9.3.5_1,Rrëshen,NA,NA,Bashkia,Bashkia,NA,AL.LZ.MR.RR
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.3_1,Mirditës,NA,ALB.9.3.6_1,Rubik,NA,NA,Bashkia,Bashkia,NA,AL.LZ.MR.RU
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.3_1,Mirditës,NA,ALB.9.3.7_1,Selitë,NA,NA,Commune,Commune,NA,AL.LZ.MR.SE
+ALB,Albania,ALB.9_1,Lezhë,NA,ALB.9.4_1,Shkodrës,NA,ALB.9.4.1_1,Hajmel,NA,NA,Commune,Commune,NA,AL.SD.SH.HA
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.1_1,Malësi e Madhe,NA,ALB.10.1.1_1,Gruemirë,NA,NA,Commune,Commune,NA,AL.SD.MM.GR
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.1_1,Malësi e Madhe,NA,ALB.10.1.2_1,Inland Water Body,NA,NA,Water body,Water body,NA,NA
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.1_1,Malësi e Madhe,NA,ALB.10.1.3_1,Kastrat,NA,NA,Commune,Commune,NA,AL.SD.MM.KA
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.1_1,Malësi e Madhe,NA,ALB.10.1.4_1,Kelmend,NA,NA,Commune,Commune,NA,AL.SD.MM.KE
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.1_1,Malësi e Madhe,NA,ALB.10.1.5_1,Koplik,NA,NA,Bashkia,Bashkia,NA,AL.SD.MM.KO
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.1_1,Malësi e Madhe,NA,ALB.10.1.6_1,Qendër,Qendėr Koplik|Qender Koplik,NA,Commune,Commune,NA,AL.SD.MM.QD
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.1_1,Malësi e Madhe,NA,ALB.10.1.7_1,Shkrel,NA,NA,Commune,Commune,NA,AL.SD.MM.SR
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.2_1,Pukës,NA,ALB.10.2.1_1,Blerim,NA,NA,Commune,Commune,NA,AL.SD.PU.BL
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.2_1,Pukës,NA,ALB.10.2.2_1,Fierzë,NA,NA,Commune,Commune,NA,AL.SD.PU.FI
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.2_1,Pukës,NA,ALB.10.2.3_1,Fushë Arrëz,Fush Arrėz|Fushe Arez,NA,Bashkia,Bashkia,NA,AL.SD.PU.FA
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.2_1,Pukës,NA,ALB.10.2.4_1,Gjegjan,NA,NA,Commune,Commune,NA,AL.SD.PU.GJ
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.2_1,Pukës,NA,ALB.10.2.5_1,Iballë,NA,NA,Commune,Commune,NA,AL.SD.PU.IB
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.2_1,Pukës,NA,ALB.10.2.6_1,Pukë,NA,NA,Bashkia,Bashkia,NA,AL.SD.PU.PK
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.2_1,Pukës,NA,ALB.10.2.7_1,Qafë Mali,Qafemali,NA,Commune,Commune,NA,AL.SD.PU.QM
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.2_1,Pukës,NA,ALB.10.2.8_1,Qelëz,Qellez,NA,Commune,Commune,NA,AL.SD.PU.QZ
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.2_1,Pukës,NA,ALB.10.2.9_1,Qerret,NA,NA,Commune,Commune,NA,AL.SD.PU.QT
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.2_1,Pukës,NA,ALB.10.2.10_1,Rrapë,NA,NA,Commune,Commune,NA,AL.SD.PU.RP
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.1_1,Ana e Malit,Ana Malit,NA,Commune,Commune,NA,AL.SD.SH.AM
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.2_1,Barbullush,NA,NA,Commune,Commune,NA,AL.SD.SH.BA
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.3_1,Berdicë,NA,NA,Commune,Commune,NA,AL.SD.SH.BE
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.4_1,Bushat,NA,NA,Commune,Commune,NA,AL.SD.SH.BU
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.5_1,Dajç,Dajē |Bregbune,NA,Commune,Commune,NA,AL.SD.SH.DA
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.6_1,Gur i Zi,Guri I Zi,NA,Commune,Commune,NA,AL.SD.SH.GZ
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.7_1,Postribë,NA,NA,Commune,Commune,NA,AL.SD.SH.PO
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.8_1,Pult,NA,NA,Commune,Commune,NA,AL.SD.SH.PL
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.9_1,Rrethina,Rrethinat| Rrethinė,NA,Commune,Commune,NA,AL.SD.SH.RT
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.10_1,Shalë,NA,NA,Commune,Commune,NA,AL.SD.SH.SL
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.11_1,Shkodër,NA,NA,Bashkia,Bashkia,NA,AL.SD.SH.SD
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.12_1,Shllak,NA,NA,Commune,Commune,NA,AL.SD.SH.SK
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.13_1,Shosh,NA,NA,Commune,Commune,NA,AL.SD.SH.SH
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.14_1,Temal,NA,NA,Commune,Commune,NA,AL.SD.SH.TE
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.15_1,Vau i Dejës,Vau Dejės,NA,Bashkia,Bashkia,NA,AL.SD.SH.VD
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.16_1,Velipojë,NA,NA,Commune,Commune,NA,AL.SD.SH.VE
+ALB,Albania,ALB.10_1,Shkodër,NA,ALB.10.3_1,Shkodrës,NA,ALB.10.3.17_1,Vig Mnelë,NA,NA,Commune,Commune,NA,AL.SD.SH.VM
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.1_1,Kavajës,NA,ALB.11.1.1_1,Golem,NA,NA,Commune,Commune,NA,AL.TI.KA.GL
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.1_1,Kavajës,NA,ALB.11.1.2_1,Gosë,NA,NA,Commune,Commune,NA,AL.TI.KA.GS
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.1_1,Kavajës,NA,ALB.11.1.3_1,Helmes,Helmas,NA,Commune,Commune,NA,AL.TI.KA.HE
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.1_1,Kavajës,NA,ALB.11.1.4_1,Kavajë,NA,NA,Commune,Commune,NA,AL.TI.KA.KV
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.1_1,Kavajës,NA,ALB.11.1.5_1,Kryevidh,NA,NA,Commune,Commune,NA,AL.TI.KA.KR
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.1_1,Kavajës,NA,ALB.11.1.6_1,Lekaj,NA,NA,Commune,Commune,NA,AL.TI.KA.LE
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.1_1,Kavajës,NA,ALB.11.1.7_1,Luz i Vogël,NA,NA,Commune,Commune,NA,AL.TI.KA.LV
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.1_1,Kavajës,NA,ALB.11.1.8_1,Rrogozhinë,NA,NA,Bashkia,Bashkia,NA,AL.TI.KA.RR
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.1_1,Kavajës,NA,ALB.11.1.9_1,Sinaballaj,NA,NA,Commune,Commune,NA,AL.TI.KA.SI
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.1_1,Kavajës,NA,ALB.11.1.10_1,Synej,NA,NA,Commune,Commune,NA,AL.TI.KA.SY
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.1_1,Baldushk,NA,NA,Commune,Commune,NA,AL.TI.TR.BA
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.2_1,Bërxullë,Berxull,NA,Commune,Commune,NA,AL.TI.TR.BX
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.3_1,Bërzhitë,Berxhite,NA,Commune,Commune,NA,AL.TI.TR.BZ
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.4_1,Dajt,NA,NA,Commune,Commune,NA,AL.TI.TR.DA
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.5_1,Farkë,Sauk,NA,Commune,Commune,NA,AL.TI.TR.SA
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.6_1,Kamëz,NA,NA,Bashkia,Bashkia,NA,AL.TI.TR.KZ
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.7_1,Kashar,NA,NA,Commune,Commune,NA,AL.TI.TR.KS
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.8_1,Krrabë,NA,NA,Commune,Commune,NA,AL.TI.TR.KB
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.9_1,Ndroq,NA,NA,Commune,Commune,NA,AL.TI.TR.ND
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.10_1,Paskuqan,NA,NA,Commune,Commune,NA,AL.TI.TR.PA
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.11_1,Petrelë,Njėsi Bashkiake,NA,Commune,Commune,NA,AL.TI.TR.PT
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.12_1,Pezë,NA,NA,Commune,Commune,NA,AL.TI.TR.PE
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.13_1,Prezë,NA,NA,Commune,Commune,NA,AL.TI.TR.PR
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.14_1,Shëngjergj,NA,NA,Commune,Commune,NA,AL.TI.TR.SH
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.15_1,Tiranë,NA,NA,Bashkia,Bashkia,NA,AL.TI.TR.TI
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.16_1,Vaqarr,NA,NA,Commune,Commune,NA,AL.TI.TR.VA
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.17_1,Vorë,NA,NA,Bashkia,Bashkia,NA,AL.TI.TR.VO
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.18_1,Zall Bastar,NA,NA,Commune,Commune,NA,AL.TI.TR.ZB
+ALB,Albania,ALB.11_1,Tiranë,NA,ALB.11.2_1,Tiranës,NA,ALB.11.2.19_1,Zall Herr,Zall Her,NA,Commune,Commune,NA,AL.TI.TR.ZH
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.1_1,Delvinës,NA,ALB.12.1.1_1,Delvinë,NA,NA,Bashkia,Bashkia,NA,AL.VR.DL.DE
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.1_1,Delvinës,NA,ALB.12.1.2_1,Finiq,NA,NA,Commune,Commune,NA,AL.VR.DL.FI
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.1_1,Delvinës,NA,ALB.12.1.3_1,Mesopotam,Mesapotam,NA,Commune,Commune,NA,AL.VR.DL.ME
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.1_1,Delvinës,NA,ALB.12.1.4_1,Vergo,NA,NA,Commune,Commune,NA,AL.VR.DL.VE
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.2_1,Sarandës,NA,ALB.12.2.1_1,Aliko,NA,NA,Commune,Commune,NA,AL.VR.SR.AL
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.2_1,Sarandës,NA,ALB.12.2.2_1,Dhivër,Vidher,NA,Commune,Commune,NA,AL.VR.SR.DH
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.2_1,Sarandës,NA,ALB.12.2.3_1,Inland Water Body,NA,NA,Water body,Water body,NA,NA
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.2_1,Sarandës,NA,ALB.12.2.4_1,Konispol,NA,NA,Bashkia,Bashkia,NA,AL.VR.SR.KP
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.2_1,Sarandës,NA,ALB.12.2.5_1,Ksamil,NA,NA,Commune,Commune,NA,AL.VR.SR.KS
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.2_1,Sarandës,NA,ALB.12.2.6_1,Livadhja,NA,NA,Commune,Commune,NA,AL.VR.SR.LI
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.2_1,Sarandës,NA,ALB.12.2.7_1,Lukovë,NA,NA,Commune,Commune,NA,AL.VR.SR.LU
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.2_1,Sarandës,NA,ALB.12.2.8_1,Markat,NA,NA,Commune,Commune,NA,AL.VR.SR.MA
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.2_1,Sarandës,NA,ALB.12.2.9_1,Sarandë,NA,NA,Bashkia,Bashkia,NA,AL.VR.SR.SA
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.2_1,Sarandës,NA,ALB.12.2.10_1,Xarrë,NA,NA,Commune,Commune,NA,AL.VR.SR.XA
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.1_1,Armen,NA,NA,Commune,Commune,NA,AL.VR.VL.AR
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.2_1,Brataj,NA,NA,Commune,Commune,NA,AL.VR.VL.BR
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.3_1,Himarë,NA,NA,Commune,Commune,NA,AL.VR.VL.HI
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.4_1,Hore Vranisht,Vranisht,NA,Commune,Commune,NA,AL.VR.VL.HV
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.5_1,Kotë,NA,NA,Commune,Commune,NA,AL.VR.VL.KT
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.6_1,Novoselë,Piskal Novoselė,NA,Commune,Commune,NA,AL.VR.VL.NO
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.7_1,Orikum,NA,NA,Bashkia,Bashkia,NA,AL.VR.VL.OR
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.8_1,Qendër,Qendėr Pusi,NA,Commune,Commune,NA,AL.VR.VL.QE
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.9_1,Selenicë,NA,NA,Bashkia,Bashkia,NA,AL.VR.VL.SL
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.10_1,Sevaster,Sevastar,NA,Commune,Commune,NA,AL.VR.VL.SV
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.11_1,Shushicë,NA,NA,Commune,Commune,NA,AL.VR.VL.SH
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.12_1,Vllahinë,NA,NA,Commune,Commune,NA,AL.VR.VL.VH
+ALB,Albania,ALB.12_1,Vlorë,NA,ALB.12.3_1,Vlorës,NA,ALB.12.3.13_1,Vlorë,NA,NA,Bashkia,Bashkia,NA,AL.VR.VL.VR
