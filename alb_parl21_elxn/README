@@ -1,0 +1,11 @@
+* Source files are located in top-level directory.
+
+* Directory data contains the raw source data.
+
+* Directory doc contains data analysis summaries or reports.
+
+* Directory out contains tabular and visual data analysis outputs.
+
+* Directory lib contains predefined R modules used in the project.
+
+* File main.R contains the execution steps for the project.
